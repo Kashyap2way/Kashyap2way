@@ -21,7 +21,7 @@
 
 - 👯 I’m looking to collaborate on [Payment Gateway API](https://github.com/Kashyap2way/GatewayBackend)
 
-- 👨‍💻 All of my projects are available at [https://kashyapportfolio.netlify.app](https://kashyapportfolio.netlify.app)
+- 👨‍💻 Making my portfolio [https://kashyapportfolio.netlify.app](https://kashyapportfolio.netlify.app)
 
 - 💬 Ask me about **IoT & Cloud**
 
