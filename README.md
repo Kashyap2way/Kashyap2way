@@ -17,7 +17,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashyap2way&layout=compact&theme=dark" alt="Kashyap's most used languages" />
 </p>
 
-- 🔭 I’m currently working on [Robo-taxi System](https://rtapp23.netlify.app)
+- 🔭 Done with this now [Robo-taxi System](https://rtapp23.netlify.app)
 
 - 👯 I’m looking to collaborate on [Payment Gateway API](https://github.com/Kashyap2way/GatewayBackend)
 
